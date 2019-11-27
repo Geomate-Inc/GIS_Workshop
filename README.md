@@ -1,4 +1,4 @@
-# GIS_Workshop
+# GIS Workshop
 GIS Workshop to be delivered for DataHub
 
 This workshop is designed to provide a beginners look into the world of GIS analysis with a focus on free and
