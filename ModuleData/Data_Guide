@@ -1,11 +1,15 @@
 Module 1 Folder Includes:
       
+      **Insert names of associated plugin zip files**
+
+Module 2 Folder Includes:
+      
       Canada.shp - Statistics Canada Country Bounday file
       WaterlooRegion.shp - Boundary for the Region of Waterloo from Waterloo Region Open Data Catalog
       TrafficCollisions.shp - Point file of traffic collisions in the City of Kitchener from 2012-2018
       TrafficCalming.csv - Comma seperated value document with the location of installed traffic calming after 2012
       
-Module 2 Folder Includes:
+Module 3 Folder Includes:
       
       RoadNetwork.shp - Line file of the roads in the Waterloo Region
       WaterlooRegionDA - Statistics Canada Dissemination Areas for the Waterloo Region
