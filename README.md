@@ -1,6 +1,7 @@
 # Communitech Data Hub Workshop: Geographic Information Systems
 
 Delivered by Nastaran Saberi, Justin Murfitt, and Q Chen
+
 December 10, 2019
 
 This workshop is designed to provide a beginners look into the world of GIS analysis with a focus on free and
