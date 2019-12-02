@@ -1,15 +1,43 @@
-Module 1 Folder Includes:
-      
-      **Insert names of associated plugin zip files**
-
 Module 2 Folder Includes:
       
-      Canada.shp - Statistics Canada Country Bounday file
-      WaterlooRegion.shp - Boundary for the Region of Waterloo from Waterloo Region Open Data Catalog
-      TrafficCollisions.shp - Point file of traffic collisions in the City of Kitchener from 2012-2018
-      TrafficCalming.csv - Comma seperated value document with the location of installed traffic calming after 2012
+      Territories.zip
+            Canada_Territories.shp - Statistics Canada Country Bounday file
+      
+      WaterlooRegion_Boundary.zip
+            Regional_Boundaries.shp - Boundary for the Region of Waterloo from the Waterloo Region Open Data Catalog
+      
+      Kitchener_TrafficCollisions.zip
+            TrafficCollisions.shp - Point file of traffic collisions in the City of Kitchener from 2012-2018 from the 
+            Waterloo Region Open Data Catalog
+      
+      Kitchener.zip
+            Kitchener.shp - Boundary for the City of Kitchener from the Waterloo Region Open Data Catalog
+      
+      Traffic_Calming.zip
+            Traffic_Calming.csv - Comma seperated value document with the location of installed traffic calming after 
+            2012 from the Waterloo Region Open Data Catalog
       
 Module 3 Folder Includes:
       
-      RoadNetwork.shp - Line file of the roads in the Waterloo Region
-      WaterlooRegionDA - Statistics Canada Dissemination Areas for the Waterloo Region
+      WaterlooRegion_Population.zip
+            DA_WaterlooRegion_Population.shp - Statistics Canada Dissemination Areas for the Waterloo Region with 
+            population data from the 2016 census
+      
+      WaterlooRegion_Roads.zip
+            Road.shp - Road network file from the Waterloo Region Open Data Catalog
+            
+Module 4 Folder Includes:
+
+
+Module 5 Folder Includes:
+
+      Kitchen_DA_Population_Python.zip
+            Kitchener_DA_Population.shp - Kitchener Dissemination Area boundary file with joined population data
+            from the 2016 Canadian Census
+      
+      Kitchener_Collisions_Python.zip
+            Traffic_Collisions.shp - Traffic collisions in Kitchener from 2012-2018 from the Waterloo Region Open
+            Data Catalog
+      
+      Kitchener_Roads_Python.zip
+            Kitchener_Roads.shp - Kitchener road network from the Waterloo Region Open Data Catalog
