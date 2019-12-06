@@ -19,12 +19,16 @@ Module 2 Folder Includes:
       
 Module 3 Folder Includes:
       
-      WaterlooRegion_Population.zip
-            DA_WaterlooRegion_Population.shp - Statistics Canada Dissemination Areas for the Waterloo Region with 
+      WaterlooRegion_DA.zip
+            WaterlooRegion_DA_Population.shp - Statistics Canada Dissemination Areas for the Waterloo Region with 
             population data from the 2016 census
       
       WaterlooRegion_Roads.zip
             Road.shp - Road network file from the Waterloo Region Open Data Catalog
+            
+      Traffic_Volumes.zip
+            Traffic_Volumes.shp - Line file containing data on yearly traffic volumes for the City of Kitchener
+            from the Waterloo Region Open Data Catalog.
             
 Module 4 Folder Includes:
 
