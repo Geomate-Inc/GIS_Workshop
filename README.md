@@ -12,7 +12,7 @@ The modules that will be covered are:
 1) Introduction to GIS
 2) Introduction to QGIS and Spatial Data Manipulation
 3) Geospatial Analysis using Vector Data
-4) Web-based GIS
+4) Web Maps
 5) Advanced Geospatial Applications
 
 The data for this workshop is sourced from the Region of Waterloo open data library, which included data from the
@@ -26,3 +26,11 @@ further analysis in the field of GIS.
 This respository includes a series of markdown jupyter notebook files, these files serve as organized way of distributing
 instructions and information that easily allow you to revisit steps and components from previous modules. The data produced 
 in each section will be used in the next (i.e. results from module 1 will be used in module 2). 
+
+# Web Map Examples
+From the presentation:
+- [Mapbox “scrollytelling”](https://comet.dlsu.edu.ph/riesgo-vis/)
+- [ArcGIS Online Story Maps](https://landscapeteam.maps.arcgis.com/apps/Cascade/index.html?appid=cd69320c00384d8094d83b45e84fd5aa)
+- [Tableau](https://public.tableau.com/en-gb/gallery/pride-parades-around-world)
+- [Leaflet](https://www.toronto.ca/services-payments/streets-parking-transportation/road-safety/vision-zero/safety-measures-and-mapping/)
+- [D3](http://rasenball.com/)
